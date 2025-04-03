@@ -2,4 +2,53 @@
 The early diagnosis system helps to detect disease by providing symptoms of the disease.
 
 ***Download the code*****
-run for the results.....
+Dowload app.py
+
+run the code...
+
+the output will be......
+
+Model Accuracy: 0.00
+
+Enter the following symptoms (1 for Yes, 0 for No):
+Fever: 1
+Cough: 1
+Headache: 1
+Fatigue: 1
+Chest Pain: 1
+Nausea: 1
+/usr/local/lib/python3.11/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+Predicted Disease: Asthma
+
+Do you want to predict another disease? (yes/no): yes
+
+Enter the following symptoms (1 for Yes, 0 for No):
+Fever: 0
+Cough: 0
+Headache: 0
+Fatigue: 0
+Chest Pain: 0
+Nausea: 0
+/usr/local/lib/python3.11/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+Predicted Disease: Malaria
+
+Do you want to predict another disease? (yes/no): yes
+
+Enter the following symptoms (1 for Yes, 0 for No):
+Fever: 0
+Cough: 1
+Headache: 1
+Fatigue: 0
+Chest Pain: 1
+Nausea: 0
+/usr/local/lib/python3.11/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+
+Predicted Disease: Syphilis
+
+Do you want to predict another disease? (yes/no): no
+Exiting the program. Take care!
