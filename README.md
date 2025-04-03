@@ -17,8 +17,7 @@ Headache: 1
 Fatigue: 1
 Chest Pain: 1
 Nausea: 1
-/usr/local/lib/python3.11/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
-  warnings.warn(
+
 
 Predicted Disease: Asthma
 
@@ -31,8 +30,6 @@ Headache: 0
 Fatigue: 0
 Chest Pain: 0
 Nausea: 0
-/usr/local/lib/python3.11/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
-  warnings.warn(
 
 Predicted Disease: Malaria
 
@@ -45,8 +42,6 @@ Headache: 1
 Fatigue: 0
 Chest Pain: 1
 Nausea: 0
-/usr/local/lib/python3.11/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
-  warnings.warn(
 
 Predicted Disease: Syphilis
 
