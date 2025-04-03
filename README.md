@@ -1,6 +1,10 @@
 # Early-Disease-Diagnosis-Using-Classification-Models
 The early diagnosis system helps to detect disease by providing symptoms of the disease.
 
+install the required commands.....
+
+pip install pandas scikit-learn numpy
+
 ***Download the code*****
 Dowload app.py
 
