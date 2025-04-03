@@ -11,7 +11,7 @@ the output will be......
 Model Accuracy: 0.00
 
 Enter the following symptoms (1 for Yes, 0 for No):
-Fever: 1
+Fever: 1 "\n"
 Cough: 1
 Headache: 1
 Fatigue: 1
